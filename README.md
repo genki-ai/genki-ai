@@ -1,4 +1,18 @@
-### Hi there 👋
+# 🥳 hello! i'm genki-ai and welcome to my github page!!
+
+## 🛠️ I’m currently working on ...
+- Becoming a Fullstack web developer
+- [Discord Data Package Reader](https://github.com/genki-ai/Discord-Data-Package-Reader) [**The repo is private until functional**]
+
+## 📫 How to reach me:
+- [My Twitter!](https://twitter.com/angelgenki)
+- Discord: *genki_angel#3157*
+
+please reach out to me if you have any questions.
+
+## 🐈 about me?
+i really love red pandas :)
+
 
 <!--
 **genki-ai/genki-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

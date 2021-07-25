@@ -1,4 +1,4 @@
-# 🥳 hello! i'm genki-ai and welcome to my github page!!
+# 🥳 hello! i'm genki-ai (but you can call me genki angel) and welcome to my github page!!
 
 ## 🛠️ I’m currently working on ...
 - Becoming a Fullstack web developer

@@ -1,14 +1,14 @@
-# 🥳 hello! i'm genki-ai (but you can call me [genki]) and welcome to my github page!!
+# 🥳 hello! i'm genki-ai, and welcome to my github page!!
 
 ## 🛠️ I’m currently working on ...
 - Becoming a software developer
-- [Discord Data Package Reader](https://github.com/genki-ai/Discord-Data-Package-Reader) [**The repo is private until functional**]
+- [Fabric-RPG-Levels](https://github.com/genki-ai/fabric-RPG-levels)
 
 ## 📫 How to reach me:
 - [My social links](https://genki.cafe/socials/)
-- Discord: *genki_angel#3157*
+- Email: [angelgenki@protonmail.com](mailto:angelgenki@protonmail.com)
 
 please reach out to me if you have any questions.
 
 ## 🐈 about me?
-i really love red pandas :)
+i really love red pandas and funny cats :)

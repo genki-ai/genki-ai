@@ -8,6 +8,7 @@
 ## 📫 How to reach me:
 - [My social links](https://genki.cafe/socials/)
 - Email: [angelgenki@protonmail.com](mailto:angelgenki@protonmail.com)
+- Kofi: [https://ko-fi.com/genkiai](https://ko-fi.com/genkiai)
 
 please reach out to me if you have any questions.
 

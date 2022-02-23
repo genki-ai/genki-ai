@@ -2,8 +2,9 @@
 
 ## 🛠️ I’m currently working on ...
 - Becoming a software developer
-- [Fabric-RPG-Levels](https://github.com/genki-ai/fabric-RPG-levels)
-- [Discord Data Reader App](https://github.com/genki-ai/discord-data-reader-app)
+- [Fabric-RPG-Levels](https://github.com/genki-angel/fabric-RPG-levels)
+- [Discord Data Reader App](https://github.com/genki-angel/discord-data-reader-app)
+- [genki_ai](https://github.com/genki-angel/genki_ai)
 
 ## 📫 How to reach me:
 - [My social links](https://genki.cafe/socials/)

@@ -3,7 +3,7 @@
 ## 🛠️ I’m currently working on ...
 - Becoming a software developer
 - [Fabric-RPG-Levels](https://github.com/genki-angel/fabric-RPG-levels) - Fabric minecraft mod
-- [Discord Data Reader App](https://github.com/genki-angel/discord-data-reader-app) - Multi-platform GUI data parser
+- [Discord Data Parser](https://github.com/genki-angel/discord-data-parser) - Multi-platform GUI data parser
 - [genki_ai](https://github.com/genki-angel/genki_ai) - Discord bot
 
 ## 📫 How to reach me:
